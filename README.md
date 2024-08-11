@@ -2,8 +2,7 @@
 
 # Logotipo : <p align="center"> <img width="400" height="200" src="https://github.com/Rootteadoorg/Port-Scanner/blob/main/Fotos/logotipo.png"> </pag>
 
-
-
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/Port-Scanner-green"/></p>
 
 # Menú : ![menú](https://github.com/user-attachments/assets/b9630487-ca44-4322-bdce-ec2751e6449f)
 
