@@ -1,5 +1,7 @@
 # Port-Scanner | Esta herramienta está diseñada para escanear los puertos de una IP sean públicos y/o privados (IPv4) |
 
+# Menú : ![menú](https://github.com/user-attachments/assets/b9630487-ca44-4322-bdce-ec2751e6449f)
+
 
 
 
