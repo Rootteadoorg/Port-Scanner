@@ -12,7 +12,8 @@
 </details>
 <details>
   <summary>[ v2.1 ]</summary>
-  <p align="justify">[ ☞ ] Versión 2.1 en esta se añadió : Si el usuario desea salir de la Tool sin ejecutarla escriba 'Si' en caso de no querer salir escriba 'No' y la Tool seguira ejecutandose y posteriormente seguir las instrucciones.</p>
+  <p align="justify">[ ☞ ] Versión 2.1 en esta se añadió : Antes de ejecutarse la herramienta va haber un mensaje que diga si el usuario desea salir de la Tool sin ejecutarla, 
+  si en ese caso desea salir escriba 'Si' en caso de NO querer salir escriba 'No' y la Tool seguira ejecutandose y posteriormente seguir las instrucciones.</p>
 </details>
 </details>
 
