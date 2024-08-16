@@ -1,6 +1,6 @@
 # Port-Scanner : | Esta herramienta está diseñada para escanear los puertos de una IP sean públicas y/o privadas (IPv4) compatible con Linux - Windows (solamente) |
 
-# Logotipo : <p align="center"> <img width="400" height="200" src="https://github.com/Rootteadoorg/Port-Scanner/blob/main/Fotos/logotipo.png"> </pag>
+# Logotipo : <p align="center"> <img width="400" height="400" src="https://github.com/Rootteadoorg/Port-Scanner/blob/main/Fotos/logotipo.png"> </pag>
 
 <p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/Port-Scanner-green.svg?style=for-the-badge"/></p>
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-1.1-green.svg?style=for-the-badge"/></p>
