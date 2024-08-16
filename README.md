@@ -6,7 +6,6 @@
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-1.1-green.svg?style=for-the-badge"/></p>
 
 # Versiones : En este apartado se puede ver las versiones que a tenido y sus cambios para saber las modificaciones que se han hecho.
-
 <details>
   <summary>[ v1.1 ]</summary>
   <p align="justify">[ ☞ ] Version Oficial esta sería la versión ya lanzada.</p>
@@ -20,5 +19,7 @@
 # Menú : ![menú](https://github.com/user-attachments/assets/b9630487-ca44-4322-bdce-ec2751e6449f)
 
 # Funcionamiento : ![funcionamiento](https://github.com/user-attachments/assets/ec57d02e-4662-42e5-badc-ec34c8fa5238)
+
+# v2.1 : https://github.com/Rootteadoorg/Port-Scanner/blob/main/Fotos/PortScanner%20v2.1.png
 
 
