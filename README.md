@@ -23,5 +23,8 @@
 
 # v2.1 : ![PortScanner v2 1](https://github.com/user-attachments/assets/dc1a819d-dab2-48c1-b874-bbd5aa28d645)
 
+# ‖ Redes ‖
 
+ˣ TG : http://t.me/p00xisharp
 
+ˣ GH : https://github.com/Rootteadoorg
