@@ -20,6 +20,7 @@
 
 # Funcionamiento : ![funcionamiento](https://github.com/user-attachments/assets/ec57d02e-4662-42e5-badc-ec34c8fa5238)
 
-# v2.1 : https://github.com/Rootteadoorg/Port-Scanner/blob/main/Fotos/PortScanner%20v2.1.png
+# v2.1 : ![PortScanner v2 1](https://github.com/user-attachments/assets/dc1a819d-dab2-48c1-b874-bbd5aa28d645)
+
 
 
