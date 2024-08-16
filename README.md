@@ -5,10 +5,10 @@
 <p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/Port-Scanner-green.svg?style=for-the-badge"/></p>
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-1.1-green.svg?style=for-the-badge"/></p>
 
-# Versiones : En este apartado se puede ver las versiones que a tenido y sus cambios para saber las modificaciones que se han echo.
+# Versiones : En este apartado se puede ver las versiones que a tenido y sus cambios para saber las modificaciones que se han hecho.
 <details>
-  <summary>[ v1.0 ]</summary>
-  <p align="justify">[#] Version Oficial.</p>
+  <summary>[ v1.1 ]</summary>
+  <p green="justify">[#] Version Oficial.</p>
 </details>
 
 
