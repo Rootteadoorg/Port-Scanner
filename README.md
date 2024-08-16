@@ -10,9 +10,10 @@
   <summary>[ v1.1 ]</summary>
   <p green="justify">[ # ] Version Oficial esta sería la versión ya lanzada.</p>
 </details>
+</details>
    <summary>[ v2.1 ]</summary>
   <p green="justify">[ # ] Versión 2.1 se añadió: Si el usuario desea salir de la Tool sin ejecutarla escriba 'Si' en caso de no querer salir escriba 'No' y la Tool seguira ejecutandose y posteriormente seguir las instrucciones.</p>
-
+</details>
 
 
 # Menú : ![menú](https://github.com/user-attachments/assets/b9630487-ca44-4322-bdce-ec2751e6449f)
