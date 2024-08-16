@@ -7,7 +7,7 @@
 
 # Versiones : En este apartado se puede ver las versiones que a tenido y sus cambios para saber las modificaciones que se han hecho.
 <details>
-  <box>[ v1.1 ]</box>
+  <summary>[ v1.1 ]</summary>
   <p green="justify">[#] Version Oficial.</p>
 </details>
 
