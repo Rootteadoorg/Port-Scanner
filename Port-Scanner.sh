@@ -1,5 +1,4 @@
 
-chmod +x portscanner.cs
 
 using System;
 using System.Linq;
