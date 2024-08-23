@@ -1,0 +1,14 @@
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\bin\Debug\net8.0\PortScanner2.exe
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\bin\Debug\net8.0\PortScanner2.deps.json
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\bin\Debug\net8.0\PortScanner2.runtimeconfig.json
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\bin\Debug\net8.0\PortScanner2.dll
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\bin\Debug\net8.0\PortScanner2.pdb
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.AssemblyInfoInputs.cache
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.AssemblyInfo.cs
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.csproj.CoreCompileInputs.cache
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.dll
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\refint\PortScanner2.dll
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.pdb
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\PortScanner2.genruntimeconfig.cache
+C:\Users\Diego VC\Desktop\Pruebas Pentesting\PortScanner2\obj\Debug\net8.0\ref\PortScanner2.dll
