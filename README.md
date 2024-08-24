@@ -2,8 +2,8 @@
 
 # Logotipo : <p align="center"> <img width="500" height="300" src="https://github.com/Rootteadoorg/Port-Scanner/blob/main/Fotos/logotipo.png"> </pag>
 
-<p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/Port-Scanner-green.svg?style=for-the-badge"/></p>
-<p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-2.1-green.svg?style=for-the-badge"/></p>
+<p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/Port-Scanner-white.svg?style=for-the-badge"/></p>
+<p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-2.1-white.svg?style=for-the-badge"/></p>
 
 # Instalación : Para poder ejecutar la herramienta tiene que instalar primero el repositorio de paquetes de Microsoft y instalar el SDK de .NET (8.0 que esta sería la versión del .NET en ejecución del script.)
 
