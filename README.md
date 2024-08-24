@@ -15,13 +15,20 @@ Instalar el repositorio de paquetes de Microsoft para permitir que la distribuc�
 ➪ wget https://packages.microsoft.com/config/debian/11/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 ➪ sudo dpkg -i packages-microsoft-prod.deb
 
-Instalar el SDK de .NET (8.0) que es necesario para ejecuatar la herramienta preparando el sistema para instalar el repositorio usando superusuario.
+Instalar el SDK de .NET (8.0) que es necesario para ejecuatar la herramienta preparando el sistema para instalar el repositorio usando superusuario y ver si la versión 8.0 se instalo.
 ➪ sudo apt-get update
 ➪ sudo apt-get install -y dotnet-sdk-8.0
+➪ dotnet --version
 
 Ahora clonar el repositorio del script y ir al repositorio:
 ➪ git clone https://github.com/Rootteadoorg/Port-Scanner.git
 ➪ cd Port-Scanner
+
+Compilar el archivo .cs este conteniendo el código escrito en C#:
+➪ dotnet build
+
+Y por ultimo ejecutar el script:
+➪ dotnet run
 
 
 
