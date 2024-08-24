@@ -29,16 +29,6 @@ Compilar el archivo .cs este conteniendo el código escrito en C#:
 
 Y por ultimo ejecutar el script:
 ➪ dotnet run
-
-
-
-
-
-
-
-
-
-
 ```
 # Versiones : En este apartado se puede ver las versiones que a tenido y sus cambios para saber las modificaciones que se han hecho.
 <details>
