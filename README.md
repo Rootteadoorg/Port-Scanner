@@ -6,6 +6,8 @@
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-2.1-green.svg?style=for-the-badge"/></p>
 
 # Instalación : Para poder ejecutar la herramienta tiene que instalar primero el repositorio de paquetes de Microsoft y instalar el SDK de .NET (8.0 que esta sería la versión del .NET en ejecución del script.)
+
+# Linux 
 ```bash
 Instalar dependencias necesarias todo en superusuario:
 ➪ sudo apt-get update
