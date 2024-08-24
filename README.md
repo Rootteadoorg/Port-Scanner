@@ -15,7 +15,7 @@ Instalar el repositorio de paquetes de Microsoft para permitir que la distribuc�
 ➪ wget https://packages.microsoft.com/config/debian/11/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 ➪ sudo dpkg -i packages-microsoft-prod.deb
 
-Instalar el SDK de .NET (8.0) que es necesario para ejecuatar la herramienta preparando el sistema para instalar el repositorio usando superusuario y ver si la versión 8.0 se instalo.
+Instalar el SDK de .NET (8.0) que es necesario para ejecutar la herramienta preparando el sistema para instalar el repositorio usando superusuario y ver si la versión 8.0 se instalo.
 ➪ sudo apt-get update
 ➪ sudo apt-get install -y dotnet-sdk-8.0
 ➪ dotnet --version
