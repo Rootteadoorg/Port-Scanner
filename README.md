@@ -19,8 +19,9 @@ Instalar el SDK de .NET (8.0) que es necesario para ejecuatar la herramienta pre
 ➪ sudo apt-get update
 ➪ sudo apt-get install -y dotnet-sdk-8.0
 
-Ahora clonar el repositorio del script:
-➪ git clone 
+Ahora clonar el repositorio del script y ir al repositorio:
+➪ git clone https://github.com/Rootteadoorg/Port-Scanner.git
+➪ cd Port-Scanner
 
 
 
