@@ -5,6 +5,33 @@
 <p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/Port-Scanner-green.svg?style=for-the-badge"/></p>
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-2.1-green.svg?style=for-the-badge"/></p>
 
+# Instalación : Para poder ejecutar la herramienta tiene que instalar primero el repositorio de paquetes de Microsoft y instalar el SDK de .NET (8.0 que esta sería la versión del .NET en ejecución del script.)
+```bash
+Instalar dependencias necesarias todo en superusuario:
+➪ sudo apt-get update
+➪ sudo apt-get install -y wget apt-transport-https
+
+Instalar el repositorio de paquetes de Microsoft para permitir que la distribucón del sistema pueda acceder a los paquetes de software de Microsoft usando superusuario:
+➪ wget https://packages.microsoft.com/config/debian/11/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+➪ sudo dpkg -i packages-microsoft-prod.deb
+
+Instalar el SDK de .NET (8.0) que es necesario para ejecuatar la herramienta preparando el sistema para instalar el repositorio usando superusuario.
+➪ sudo apt-get update
+➪ sudo apt-get install -y dotnet-sdk-8.0
+
+Ahora clonar el repositorio del script:
+➪ git clone 
+
+
+
+
+
+
+
+
+
+
+```
 # Versiones : En este apartado se puede ver las versiones que a tenido y sus cambios para saber las modificaciones que se han hecho.
 <details>
   <summary>[ v1.1 ]</summary>
